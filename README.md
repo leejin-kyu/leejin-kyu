@@ -10,25 +10,28 @@ Business Inquiry: leejinkyu0612@naver.com
 📘 Bio
 - 2024.07 현재 생성형 AI 및 생성AI 기반 빅데이터 분석  전문기업 해피AI 대표
 - 2023.07 생성형 AI 기반 빅데이터 분석 전문기업 해피NLP 대표
-- 2022. 동국대학교 AI대학원 박사과정 수료(자연어처리 및 LLM 전공)
-- 2023~ 퍼블릭 뉴스 AI 칼럼니스트
+- 2022.동국대학교 AI대학원 박사과정 수료(자연어처리 및 LLM 전공)
+- 2023 퍼블릭 뉴스 생성 AI 칼럼니스트(인공지능 편향 및 RAG 챗봇전문) 
 - 2021 자연어처리/빅데이터 전문기업 Textom Analyst(1기 최우수 Analyst)
 - 2021~2023 AI/빅데이터 전문 기업 스텔라비전 AI 개발자
 - 2018~2021 정부출연 연구기관자연어처리/빅데이터 분석 연구원 (인문사회과학 연구)
 
 🎒Courses & Activities
 2024
-- 인프런 텍스톰(Textom)을 활용한 텍스트마이닝(연구동향, SNS) 논문 작성법 강의
-- 인프런 쉽게 따라하는 LDA & 감성분석 빅데이터 논문 작성법 with ChatGPT
-- 탈잉 파이썬을 활용한 텍스트 분석 강의(서울과학기술대학교)
-- 경기대학교 ChatGPT를 활용한 파이썬 기초 강의
-- 인프런 파이썬 초보자를 위한 주가 데이터 분석 입문 강의
-- 인프런 연구자와 대학원생을 위한 감성분석 기법 실습 강의
-- 인프런 랭체인(LangChain)을 활용한 LLM 챗봇 만들기(feat.ChatGPT)
+- 인공지능 기초 및 데이터 분석 기초 강의. 한국직업개발원 (2024)
+- LLM 실무자를 위한 LLM이론 및 Langchain 기반 RAG챗봇 개발 강의. 서울디지털 재단 (2024)
+- 텍스톰(Textom)을 활용한 텍스트마이닝(연구동향, SNS) 논문 작성법 강의. 인프런 (2024)
+- 쉽게 따라하는 LDA & 감성분석 빅데이터 논문 작성법 with ChatGPT. 인프런 (2024)
+- 파이썬을 활용한 텍스트 분석 강의. 탈잉 (서울과학기술대학교) (2024)
+- ChatGPT를 활용한 파이썬 기초 강의. 경기대학교 (2024)
+- 파이썬 초보자를 위한 주가 데이터 분석 입문 강의. 인프런 (2024)
+- 연구자와 대학원생을 위한 감성분석 기법 실습 강의. 인프런 (2024)
+- 랭체인(LangChain)을 활용한 LLM 챗봇 만들기(feat.ChatGPT). 인프런 (2024)
 
 2023
-- 단국대학교 빅데이터 전문가 과정 특강
-- 렛유인에듀 빅데이터 분석 기초 강의
+- ChatGPT를 활용한 파이썬 기초 강의. 경기대학교 (2023)
+- 빅데이터 전문가 과정 특강. 단국대학교 (2023)
+- 빅데이터 분석 기초 강의. 렛유인에듀 (2023)
 
 💻 Projects
 - Private LLM 기반 RAG 챗봇 모델 구축 (한국전력공사)
@@ -89,21 +92,21 @@ Business Inquiry: leejinkyu0612@naver.com
   [논문 링크](https://arxiv.org/abs/2406.07229)
 -  Improving Generation of Sentiment Commonsense by Bias Mitigation" International Conference on Big Data and Smart Computing (BigComp). JinKyu Lee, and Jihie Kim.2023.
   [링크](https://ieeexplore.ieee.org/document/10066681)
-- Vanilla 프롬프팅 기법과 CoT 프롬프팅 기법 간 음악 편곡 결과 비교 분석 | 게임학회 | 2024.02
-- 언론기사 빅데이터 분석을 통한 대규모 언어모델에 대한 기술 인식 분석: ChatGPT 등장 전후를 중심으로 | 한국멀티미디어학회 | 2024.02
+- Vanilla 프롬프팅 기법과 CoT 프롬프팅 기법 간 음악 편곡 결과 비교 분석 | 게임학회 | 2024
+- 언론기사 빅데이터 분석을 통한 대규모 언어모델에 대한 기술 인식 분석: ChatGPT 등장 전후를 중심으로 | 한국멀티미디어학회 | 2024
   [논문 링크](https://drive.google.com/file/d/1hX5tRHzcLSwKk1a5UKrA_T67xVMk4JR5/view?usp=drive_link)
 - 정맥간호 인터넷 카페 Q & A 게시글의 키워드 네트워크 분석 | Healthcare Informatics Research | 2023.02
   [논문 링크](https://drive.google.com/file/d/1lLkrD2v3RXZe0F0zRMeggcS1unfCKS--/view?usp=share_link)
-- 자연어 처리(NLP)기반 텍스트마이닝을 활용한 소나무에 대한 국내외 연구동향(2001∼2020)분석 | 농업생명과학연구 | 2022.04
+- 자연어 처리(NLP)기반 텍스트마이닝을 활용한 소나무에 대한 국내외 연구동향(2001∼2020)분석 | 농업생명과학연구 | 2022
   [논문 링크](https://drive.google.com/file/d/1yOWp48E4xvuARp1Vxi4BychCsQVVxvqf/view?usp=share_link)
-- 텍스트마이닝을 활용한 백두대간에 관한 연구동향(2001‒2020) 분석 | 한국산림과학회지 | 2022.03
+- 텍스트마이닝을 활용한 백두대간에 관한 연구동향(2001‒2020) 분석 | 한국산림과학회지 | 2022
   [논문 링크](https://drive.google.com/file/d/1IX34CV2cQ06aiZzag2gStvaGfU1NsfCb/view?usp=drive_link)
-- 텍스트마이닝을 활용한 국내 산림생태 분야 연구동향(2001‒2020) 분석 | 한국산림과학회지 | 2021.09
+- 텍스트마이닝을 활용한 국내 산림생태 분야 연구동향(2001‒2020) 분석 | 한국산림과학회지 | 202
   [논문 링크](https://drive.google.com/file/d/1ewHBl7FWIpxm9qNqwxQ9BL4jEQbpqYgk/view?usp=drive_link)
 - (NLP) 편향(Bias) 완화를 통한 감성 상식(Commonse)문장 생성 향상 기법 연구 (BART모델 사용)
   [논문 링크](https://drive.google.com/file/d/1oNODMI2wv5zN-d-On7bnct9tsi5jL0Vl/view?usp=share_link)
-- 숲길에 대한 10 년간의 언론 인식분석-텍스트 마이닝 분석을 중심으로 | 산림경제연구 | 2021.06
-- 산림관광지로서 인제 자작나무 숲에 대한 소셜미디어 이용자 인식 연구 | 한국산림휴양학회 | 2020.09
+- 숲길에 대한 10 년간의 언론 인식분석-텍스트 마이닝 분석을 중심으로 | 산림경제연구 | 2021
+- 산림관광지로서 인제 자작나무 숲에 대한 소셜미디어 이용자 인식 연구 | 한국산림휴양학회 | 2020
 
 이외에도 타 분야에서 다수의 학술논문, 학술발표, 연구보고서 등의 성과 창출
 
