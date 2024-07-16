@@ -1,7 +1,11 @@
-이진규 (Jinkyu Lee)
+
+ 이진규(Jinkyu Lee)
+
+해피AI 대표 (Happy AI CEO, HappyNLP CEO)
 
 
 Business Inquiry: leejinkyu0612@naver.com
+
 
 [naver blog](https://blog.naver.com/happynlp0612)
 
@@ -101,7 +105,7 @@ Business Inquiry: leejinkyu0612@naver.com
   [논문 링크](https://drive.google.com/file/d/1yOWp48E4xvuARp1Vxi4BychCsQVVxvqf/view?usp=share_link)
 - 텍스트마이닝을 활용한 백두대간에 관한 연구동향(2001‒2020) 분석 | 한국산림과학회지 | 2022
   [논문 링크](https://drive.google.com/file/d/1IX34CV2cQ06aiZzag2gStvaGfU1NsfCb/view?usp=drive_link)
-- 텍스트마이닝을 활용한 국내 산림생태 분야 연구동향(2001‒2020) 분석 | 한국산림과학회지 | 202
+- 텍스트마이닝을 활용한 국내 산림생태 분야 연구동향(2001‒2020) 분석 | 한국산림과학회지 | 2022
   [논문 링크](https://drive.google.com/file/d/1ewHBl7FWIpxm9qNqwxQ9BL4jEQbpqYgk/view?usp=drive_link)
 - (NLP) 편향(Bias) 완화를 통한 감성 상식(Commonse)문장 생성 향상 기법 연구 (BART모델 사용)
   [논문 링크](https://drive.google.com/file/d/1oNODMI2wv5zN-d-On7bnct9tsi5jL0Vl/view?usp=share_link)
