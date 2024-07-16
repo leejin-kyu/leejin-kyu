@@ -7,7 +7,11 @@
 Business Inquiry: leejinkyu0612@naver.com
 
 
-[naver blog](https://blog.naver.com/happynlp0612)
+[naverblog] (https://blog.naver.com/happynlp0612)
+
+[Youtube] (https://www.youtube.com/@HappyAI_0612)
+
+
 
 생성 AI 및 빅데이터 분석 최신 트렌드 기술에 대한 전문성을 가지고 있는 해피AI입니다.
 
